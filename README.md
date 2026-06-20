@@ -50,5 +50,11 @@ The study supports a nuanced view: aesthetics should enhance, not distract from,
 🧰 Libraries Used
 pandas、numpy、matplotlib、seaborn、scipy
 
+📷 Key Visualizations
+Correlation between Aesthetic Score & Task Abandonment Rate
+![Correlation](Correlation%20between%20Aesthetic%20Score%20%26%20Task%20Abandonment%20Rate.png)
+Individual & Group Aesthetic Scores
+![Scores](Individual%20%26%20Group%20Aesthetic%20Scores.png)
+
 🙋‍♀️ Author
 Sight-link
