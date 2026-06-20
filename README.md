@@ -1,6 +1,6 @@
 # Data Visualization Aesthetics & Usability Analysis
 
-This project explores the relationship between visual aesthetics and usability​ in data visualization. It is inspired by the research "The effect of aesthetics on the usability of data visualization"by Nick Cawthon & Andrew Vande Moere.
+A data-driven investigation into whether beautiful visualizations actually perform better — replicating and extending Cawthon & Vande Moere's seminal study on aesthetic-usability trade-offs in data viz.. It is inspired by the research "The effect of aesthetics on the usability of data visualization"by Nick Cawthon & Andrew Vande Moere.
 
 📌 Project Overview
 Many people assume that beautiful visualizations are always better — but is that true?
