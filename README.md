@@ -1,4 +1,8 @@
 # Data Visualization Aesthetics & Usability Analysis
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
+![Libraries](https://img.shields.io/badge/Libraries-pandas%20%7C%20numpy%20%7C%20matplotlib%20%7C%20seaborn%20%7C%20scipy-orange)
+![Last Commit](https://img.shields.io/github/last-commit/sight-link/Data-viz-aesthetics-study)
 
 A data-driven investigation into whether beautiful visualizations actually perform better — replicating and extending Cawthon & Vande Moere's seminal study on aesthetic-usability trade-offs in data viz.. It is inspired by the research "The effect of aesthetics on the usability of data visualization"by Nick Cawthon & Andrew Vande Moere.
 
